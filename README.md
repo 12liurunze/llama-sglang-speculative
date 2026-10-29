@@ -72,7 +72,7 @@ python main.py run \
   --model /path/to/Llama-3.3-70B-Instruct \
   --draft /path/to/SGLang-EAGLE3-Llama-3.3-70B-Instruct-SpecForge \
   --gpus 0,1,2,3,4,5,6,7 --tp 8 --bs 32 \
-  --methods chain7 adaptive7 --threshold 0.5 --repeat 3 \
+  --methods chain1 chain3 ar chain7 adaptive7 --threshold 0.5 --repeat 3 \
   --context 4096 --max-new-tokens 1024 --memory-fraction 0.8 \
   --output results/70b_tp8 --pilot-only
 ```
