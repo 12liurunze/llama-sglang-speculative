@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-29",
+  "windows_cpu_tests": {
+    "passed": 18,
+    "failed": 0
+  },
+  "linux_cpu_tests": {
+    "passed": 18,
+    "failed": 0,
+    "pytest": "7.4.0",
+    "isolated_test_dependencies": true
+  },
+  "linux_archive_extraction": "passed",
+  "source_file_sha_checks": 4886,
+  "archive_sha256": "55d9c884269a1e5fb948931e34eedbc16132a0334d03eb02894dc1e84657eb2d",
+  "source_archive_secret_pattern_scan": "passed",
+  "public_file_allowlist_secret_pattern_scan": "passed",
+  "multi_gpu_model_run": false,
+  "a100_run": false,
+  "performance_results": null
+}

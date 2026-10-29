@@ -1,0 +1,32 @@
+[
+  {
+    "path": "kernels/ops/kvcache/cache_move.py",
+    "source_sha256": "60ed224b13420a0d0baa62e8900a3039579e2730193d52d100ef0bd9220939d5",
+    "clean_sha256": "a0e6b355ea5c4b0df83bcf8c6b3c954069258eecf028a617c225c130a0dcdc7e"
+  },
+  {
+    "path": "kernels/ops/speculative/topk1.py",
+    "source_sha256": "ac4707428c313a2ef822235521a6e1c1ffab53b2614de8c6b7c253d8f757b4c1",
+    "clean_sha256": "2dc54fd39c34a6aaaf46fbbc5c3737c57bf70c42f036f33490460a03b6034533"
+  },
+  {
+    "path": "srt/utils/triton_load_watch.py",
+    "source_sha256": "c8b19a8e7799614d773cef05aeddc70f76b828b273a1c68678e4fc4cec932693",
+    "clean_sha256": "f1d5ba3b5d61173e475885bade2dfe18ab2d73d7875797ccb5e62d0ebceba8f5"
+  },
+  {
+    "path": "srt/speculative/frozen_kv_mtp_worker_v2.py",
+    "source_sha256": "e0c81bf18bf3c46894c558582377b7b709d5688c2e4b29255fda7a6e5a184238",
+    "clean_sha256": "7f6a9d9e98db4ca35c57ca02d2db2e1d439e37d27a09f49023d31550f64a7b9e"
+  },
+  {
+    "path": "srt/speculative/eagle_worker_v2.py",
+    "source_sha256": "5e9fec6de4152c4479a3fd724d31dcc0c1df9ac781fabff6414e9ab65983e2d2",
+    "clean_sha256": "ddf26b2114dc63a73aea79576ec01a7f7fa2287b75858d02cbc5d0977b4c3614"
+  },
+  {
+    "path": "srt/speculative/spec_utils.py",
+    "source_sha256": "a856bae3274c94c08e2ab4b122db77ad6d212ec5f06f41e0d8e36c7562841f97",
+    "clean_sha256": "f26dcf437e5c65657adbc77a3e8b9851f0efda98e52f237fe30a44cb512b6a6c"
+  }
+]
